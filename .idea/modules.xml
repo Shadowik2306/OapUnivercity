@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FinalOAP/FinalOAP.iml" filepath="$PROJECT_DIR$/FinalOAP/FinalOAP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled12/untitled12.iml" filepath="$PROJECT_DIR$/untitled12/untitled12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled13/untitled13.iml" filepath="$PROJECT_DIR$/untitled13/untitled13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled9/untitled9.iml" filepath="$PROJECT_DIR$/untitled9/untitled9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ОАП.iml" filepath="$PROJECT_DIR$/.idea/ОАП.iml" />
+    </modules>
+  </component>
+</project>
